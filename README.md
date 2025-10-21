@@ -1,7 +1,106 @@
-## Hi there 👋, my name is Simon Stenelid. 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/simonstenelid)
+# 🚀 Business Analyst & AI Automation Engineer
 
+---
 
-| 🔭 I'm Currently Working On | 🤓 I’m Currently Learning | 🚀 My Upcoming Plans |
-|------------------------------|---------------------------|-----------------------|
-|[Financial Forecast Model](https://github.com/SimonStenelid/Forecast-Model_FurnitureRestoration) | <img src="https://github.com/user-attachments/assets/dd8806fa-15a8-48bc-af8a-22bb18fd9356" alt="4248443" width="70" /> <img src="https://github.com/user-attachments/assets/51089d1e-a9c5-4de5-9d89-9ff9bfde505b" alt="4248443" width="70" /> <img src="https://github.com/user-attachments/assets/b56eac3f-a145-4fbf-8f15-024f9976dadc" alt="4248443" width="70" /> | - 🏃 Running a Full Marathon <br>- 😎 Become the `Spreadsheet` `SQL` `Tableau` Master |
+## 👋 About Me
+
+I'm a **Business Analyst** at **Etraveli Group** — Europe's largest tech-driven travel platform — where I transform complex datasets into actionable insights. My world revolves around handling massive volumes of data, building intelligent automation systems, and architecting solutions that scale.
+
+By day: 📊 **Data-driven decision making**  
+By night (and most mornings): 🤖 **Building agentic AI systems & Python automations**
+
+---
+
+## 💼 Professional Background
+
+### Business Analyst @ Etraveli Group
+**Where complexity meets scale** — Working with the continent's premier travel platform
+
+- 🔍 **Complex Data Analysis**: Navigate intricate datasets from booking systems, user behavior patterns, and multi-currency transaction flows across Europe
+- 📈 **Data Volumes**: Handle millions of records daily, optimizing queries and data pipelines for performance
+- 🎯 **Business Intelligence**: Transform raw data into strategic insights that drive product decisions and revenue optimization
+- 🔗 **Cross-functional Leadership**: Bridge technical and business teams to align data solutions with organizational goals
+- ⚙️ **System Optimization**: Identify bottlenecks and implement data infrastructure improvements
+
+**Tech Stack**: SQL, Python, Data Visualization, ETL processes, Business Intelligence tools
+
+---
+
+## 🤖 AI & Automation Focus
+
+My passion lies in building **intelligent, autonomous systems** that solve real-world problems:
+
+### 🎯 Agentic AI Projects
+- **Multi-Agent Systems**: Architecting AI agents that can reason, plan, and execute complex workflows autonomously
+- **LLM-Powered Solutions**: Leveraging large language models for intelligent task automation and decision-making
+- **Prompt Engineering**: Crafting sophisticated prompts to push AI capabilities toward production-ready applications
+- **AI Orchestration**: Building frameworks that coordinate multiple AI models and external tools seamlessly
+
+### 🐍 Python Automation
+- **End-to-End Automation**: From data extraction to process orchestration—automating the entire workflow pipeline
+- **API Integration**: Building robust connectors between disparate systems and services
+- **Intelligent Scripting**: Creating smart, adaptive scripts that learn and improve over time
+- **Performance Optimization**: Writing high-throughput automation systems that scale with demand
+
+**Tech Stack**: Python 3.x, LLMs (Claude, GPT, etc.), FastAPI, AsyncIO, pandas, NumPy, scheduling frameworks
+
+---
+
+## 🛠️ Technical Toolkit
+
+```
+Languages       │ Python, SQL, JavaScript
+Databases       │ PostgreSQL, MySQL, BigQuery, Data Warehouses
+AI/ML           │ LLMs, Prompt Engineering, Multi-Agent Systems
+Automation      │ Task Scheduling, API Integration, ETL/ELT
+Tools & Platforms │ Git, Docker, CI/CD, Cloud Platforms
+```
+
+---
+
+## 📚 What I'm Currently Exploring
+
+- 🧠 Advanced **multi-agent architectures** and their real-world applications
+- 🔄 **Autonomous workflow systems** that can self-optimize and adapt
+- 📡 Building **production-grade AI agents** with robust error handling and monitoring
+- 🚀 Scaling Python automation across distributed systems
+- 🎓 Latest research in agentic AI frameworks and emergent capabilities
+
+---
+
+## 💡 Philosophy
+
+> "Complexity should be managed, not feared. Automation should amplify human intelligence, not replace it."
+
+I believe in:
+- **Data-driven decisions** backed by solid analysis
+- **Intelligent automation** that frees humans for high-impact work
+- **Scalable systems** built to grow with organizational needs
+- **Clean code** that others can maintain and build upon
+- **Continuous learning** in a rapidly evolving AI landscape
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/simonstenelid)
+- 🐙 [GitHub](https://github.com/SimonStenelid)
+- 📧 Email: your.email@example.com
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats][(https://github-readme-stats.vercel.app/api?username=SimonStenelid&show_icons=true&theme=radical)]
+
+---
+
+## 🎁 Featured Projects
+
+*Agentic AI & Python automation showcases coming soon...*
+
+---
+
+**Last updated**: October 2025
+
+*Feel free to explore my repositories for agentic AI implementations, Python automation frameworks, and data analysis projects. Contributions and conversations are always welcome!*
