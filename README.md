@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-I'm a **Business Analyst** at **Etraveli Group** — Europe's largest tech-driven travel platform — where I transform complex datasets into actionable insights. My world revolves around handling massive volumes of data, building intelligent automation systems, and architecting solutions that scale.
+I'm a **Business Analyst** at **Etraveli Group** — Europe's largest tech-driven travel platform. My world revolves around handling massive volumes of data, and diving deep into the numbers.
 
 By day: 📊 **Data-driven decision making**  
 By night (and most mornings): 🤖 **Building agentic AI systems & Python automations**
@@ -14,15 +14,15 @@ By night (and most mornings): 🤖 **Building agentic AI systems & Python automa
 ## 💼 Professional Background
 
 ### Business Analyst @ Etraveli Group
-**Where complexity meets scale** — Working with the continent's premier travel platform
+**World's Leading Flight OTA** — Working with the continent's premier travel platform
 
-- 🔍 **Complex Data Analysis**: Navigate intricate datasets from booking systems, user behavior patterns, and multi-currency transaction flows across Europe
-- 📈 **Data Volumes**: Handle millions of records daily, optimizing queries and data pipelines for performance
-- 🎯 **Business Intelligence**: Transform raw data into strategic insights that drive product decisions and revenue optimization
+- 🔍 **Complex Data Analysis**: Navigate intricate datasets from flight systens and bot traffic
+- 📈 **Data Volumes**: Handle millions of records daily
+- 🎯 **Business Intelligence**: Transform raw data into hopefully insights 
 - 🔗 **Cross-functional Leadership**: Bridge technical and business teams to align data solutions with organizational goals
 - ⚙️ **System Optimization**: Identify bottlenecks and implement data infrastructure improvements
 
-**Tech Stack**: SQL, Python, Data Visualization, ETL processes, Business Intelligence tools
+**Tech Stack**: Python, Data Visualization, Looker Studio, Business Intelligence tools, OpenSearch, Excel
 
 ---
 
@@ -42,18 +42,18 @@ My passion lies in building **intelligent, autonomous systems** that solve real-
 - **Intelligent Scripting**: Creating smart, adaptive scripts that learn and improve over time
 - **Performance Optimization**: Writing high-throughput automation systems that scale with demand
 
-**Tech Stack**: Python 3.x, LLMs (Claude, GPT, etc.), FastAPI, AsyncIO, pandas, NumPy, scheduling frameworks
+**Tech Stack**: Python 3.x, LLMs (Claude, GPT, etc.), FastAPI, AsyncIO, OpenAI SKD, NumPy, scheduling frameworks
 
 ---
 
 ## 🛠️ Technical Toolkit
 
 ```
-Languages       │ Python, SQL, JavaScript
+Languages       │ Python - I only love python.. nothing else
 Databases       │ PostgreSQL, MySQL, BigQuery, Data Warehouses
 AI/ML           │ LLMs, Prompt Engineering, Multi-Agent Systems
-Automation      │ Task Scheduling, API Integration, ETL/ELT
-Tools & Platforms │ Git, Docker, CI/CD, Cloud Platforms
+Automation      │ Task Scheduling, API Integration, Webhooks
+Tools & Platforms │ Git, Docker, MCP, APIs
 ```
 
 ---
@@ -62,7 +62,7 @@ Tools & Platforms │ Git, Docker, CI/CD, Cloud Platforms
 
 - 🧠 Advanced **multi-agent architectures** and their real-world applications
 - 🔄 **Autonomous workflow systems** that can self-optimize and adapt
-- 📡 Building **production-grade AI agents** with robust error handling and monitoring
+- 📡 Building **too many AI agents** - trying to automate my life completely.. so I can relax
 - 🚀 Scaling Python automation across distributed systems
 - 🎓 Latest research in agentic AI frameworks and emergent capabilities
 
@@ -70,14 +70,7 @@ Tools & Platforms │ Git, Docker, CI/CD, Cloud Platforms
 
 ## 💡 Philosophy
 
-> "Complexity should be managed, not feared. Automation should amplify human intelligence, not replace it."
-
-I believe in:
-- **Data-driven decisions** backed by solid analysis
-- **Intelligent automation** that frees humans for high-impact work
-- **Scalable systems** built to grow with organizational needs
-- **Clean code** that others can maintain and build upon
-- **Continuous learning** in a rapidly evolving AI landscape
+> "Optimze, optimize and make it simple."
 
 ---
 
@@ -85,22 +78,18 @@ I believe in:
 
 - 💼 [LinkedIn](https://linkedin.com/in/simonstenelid)
 - 🐙 [GitHub](https://github.com/SimonStenelid)
-- 📧 Email: your.email@example.com
+- 📧 Email: simon.stenelid@gmail.com
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats][(https://github-readme-stats.vercel.app/api?username=SimonStenelid&show_icons=true&theme=radical)]
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonStenelid&show_icons=true&theme=radical)
 
 ---
 
 ## 🎁 Featured Projects
 
-*Agentic AI & Python automation showcases coming soon...*
+*More AI Automations coming.. please steal and enjoy them. Thank you.*
 
 ---
-
-**Last updated**: October 2025
-
-*Feel free to explore my repositories for agentic AI implementations, Python automation frameworks, and data analysis projects. Contributions and conversations are always welcome!*
