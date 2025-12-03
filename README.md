@@ -1,95 +1,33 @@
-# 🚀 Business Analyst & AI Automation Engineer
+### My timeline 
 
----
+<i>22-now (23) yrs</i>
+- Goal now: becoming a ML/AI Engineer
+- Learned how to build agentic AI systems, and automated a large part of my life, all sorts of weird stuff - [Me as an AI](https://huggingface.co/spaces/SimonStenelid/ai-my-chatbot?logs=containe)
+- Built and published a retirement calculator app on appstore - [My app, but broken](https://apps.apple.com/se/app/retiro/id6744709211)
+- Joined the worlds #1 leading Tech-OTA as a Business Analyst II, analyzing some of the largest datasets
+- Got certified as a Data Analyst, wanted to join a Tech Company
+- Graduated
 
-## 👋 About Me
+<i>19–22 yrs</i>
+- Started my own furniture restoration business after seeing a instagram video of someone painting old furniture
+- Got my first cabinet from the scrap yard, restored it, sold it in 15 min for $500 profit
+- Scaled the business to over £3500/month from my parent's basement, restored, sold, did it all
+- Juggled studies, part time job, and my own business at the same time - doing 18hr work days
+- Did my Master's degree in Business Ecnomics/Administration
+- Got a job as a Sales Associate in a japanese retail store, got promoted to manager - said no
+- Traveled to Thailand for 6 months alone, to practice Muay Thai and challenge myself
 
-I'm a **Business Analyst** at **Etraveli Group** — Europe's largest tech-driven travel platform. My world revolves around handling massive volumes of data, and diving deep into the numbers.
 
-By day: 📊 **Data-driven decision making**  
-By night (and most mornings): 🤖 **Building agentic AI systems & Python automations**
+<i>17–19 yrs</i>
+- Got a part time job along side my studies as a food driver for a restaurant, had so much fun
+- Tried starting a clothing company online - failed
+- Did some freelancing and sold a couple of websites through Fiverr, for Swedish startup companies
+- Started doing Muay Thai (Thaiboxing) and I loved it
 
----
+<i>14–16 yrs</i>
+- My parents told me to find a way to make my own money if I wanted to buy a PC
+- Learned how to import stuff from manufacturers in China directly. Started importing high-end look-a-like watches with “no-brand” from China and sold them via social media in Sweden
+- Grew my watch brand on Instagram to 5k followers and $9000 in profit as a 16 year old
 
-## 💼 Professional Background
 
-### Business Analyst @ Etraveli Group
-**World's Leading Flight OTA** — Working with the continent's premier travel platform
 
-- 🔍 **Complex Data Analysis**: Navigate intricate datasets from flight systens and bot traffic
-- 📈 **Data Volumes**: Handle millions of records daily
-- 🎯 **Business Intelligence**: Transform raw data into hopefully insights 
-- 🔗 **Cross-functional Leadership**: Bridge technical and business teams to align data solutions with organizational goals
-- ⚙️ **System Optimization**: Identify bottlenecks and implement data infrastructure improvements
-
-**Tech Stack**: Python, Data Visualization, Looker Studio, Business Intelligence tools, OpenSearch, Excel
-
----
-
-## 🤖 AI & Automation Focus
-
-My passion lies in building **intelligent, autonomous systems** that solve real-world problems:
-
-### 🎯 Agentic AI Projects
-- **Multi-Agent Systems**: Architecting AI agents that can reason, plan, and execute complex workflows autonomously
-- **LLM-Powered Solutions**: Leveraging large language models for intelligent task automation and decision-making
-- **Prompt Engineering**: Crafting sophisticated prompts to push AI capabilities toward production-ready applications
-- **AI Orchestration**: Building frameworks that coordinate multiple AI models and external tools seamlessly
-
-### 🐍 Python Automation
-- **End-to-End Automation**: From data extraction to process orchestration—automating the entire workflow pipeline
-- **API Integration**: Building robust connectors between disparate systems and services
-- **Intelligent Scripting**: Creating smart, adaptive scripts that learn and improve over time
-- **Performance Optimization**: Writing high-throughput automation systems that scale with demand
-
-**Tech Stack**: Python 3.x, LLMs (Claude, GPT, etc.), FastAPI, AsyncIO, OpenAI SKD, NumPy, scheduling frameworks
-
----
-
-## 🛠️ Technical Toolkit
-
-```
-Languages       │ Python - I only love python.. nothing else
-Databases       │ PostgreSQL, MySQL, BigQuery, Data Warehouses
-AI/ML           │ LLMs, Prompt Engineering, Multi-Agent Systems
-Automation      │ Task Scheduling, API Integration, Webhooks
-Tools & Platforms │ Git, Docker, MCP, APIs
-```
-
----
-
-## 📚 What I'm Currently Exploring
-
-- 🧠 Advanced **multi-agent architectures** and their real-world applications
-- 🔄 **Autonomous workflow systems** that can self-optimize and adapt
-- 📡 Building **too many AI agents** - trying to automate my life completely.. so I can relax
-- 🚀 Scaling Python automation across distributed systems
-- 🎓 Latest research in agentic AI frameworks and emergent capabilities
-
----
-
-## 💡 Philosophy
-
-> "Optimze, optimize and make it simple."
-
----
-
-## 🔗 Connect With Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/simonstenelid)
-- 🐙 [GitHub](https://github.com/SimonStenelid)
-- 📧 Email: simon.stenelid@gmail.com
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonStenelid&show_icons=true&theme=radical)
-
----
-
-## 🎁 Featured Projects
-
-*More AI Automations coming.. please steal and enjoy them. Thank you.*
-
----
