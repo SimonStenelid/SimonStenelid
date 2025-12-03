@@ -3,7 +3,7 @@
 <i>22-now (23) yrs</i>
 - Goal now: becoming a ML/AI Engineer
 - Learned how to build agentic AI systems, and automated a large part of my life, all sorts of weird stuff - [Me as an AI](https://huggingface.co/spaces/SimonStenelid/ai-my-chatbot?logs=containe)
-- Built and published a retirement calculator app on appstore - [My app, but broken](https://apps.apple.com/se/app/retiro/id6744709211)
+- Built and published a retirement calculator app on appstore - [My app](https://apps.apple.com/se/app/retiro/id6744709211)
 - Joined the worlds #1 leading Tech-OTA as a Business Analyst II, analyzing some of the largest datasets
 - Got certified as a Data Analyst, wanted to join a Tech Company
 - Graduated
