@@ -11,7 +11,7 @@
 <i>19–22 yrs</i>
 - Started my own furniture restoration business after seeing a instagram video of someone painting old furniture
 - Got my first cabinet from the scrap yard, restored it, sold it in 15 min for $500 profit
-- Scaled the business to over £3500/month from my parent's basement, restored, sold, did it all
+- Scaled the business to over $3500/month from my parent's basement, restored, sold, did it all
 - Juggled studies, part time job, and my own business at the same time - doing 18hr work days
 - Did my Master's degree in Business Ecnomics/Administration
 - Got a job as a Sales Associate in a japanese retail store, got promoted to manager - said no
