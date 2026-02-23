@@ -1,7 +1,7 @@
 ### My timeline 
 
 <i>22-now (23) yrs</i>
-- Now: I want to learn all the corners of Data Sceience and ML/AI
+- Now: I want to learn all the corners of AI & Agents
 - Learned how to build agentic AI systems, and automated a large part of my life, all sorts of weird stuff - [Me as an AI](https://huggingface.co/spaces/SimonStenelid/ai-my-chatbot?logs=containe)
 - Built and published a retirement calculator app on appstore - [My app](https://apps.apple.com/se/app/retiro/id6744709211)
 - Joined the worlds #1 leading Tech-OTA as a Business Analyst II, analyzing some of the largest datasets
