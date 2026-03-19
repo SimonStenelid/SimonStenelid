@@ -1,33 +1,24 @@
-### My timeline 
+👋 Hi! I'm Simon
+<p align="left">
 
-<i>22-now (23) yrs</i>
-- Now: I want to learn all the corners of AI & Agents
-- Learned how to build agentic AI systems, and automated a large part of my life, all sorts of weird stuff - [Me as an AI](https://huggingface.co/spaces/SimonStenelid/ai-my-chatbot?logs=containe)
-- Built and published a retirement calculator app on appstore - [My app](https://apps.apple.com/se/app/retiro/id6744709211)
-- Joined the worlds #1 leading Tech-OTA as a Business Analyst II, analyzing some of the largest datasets
-- Got certified as a Data Analyst, wanted to join a Tech Company
-- Graduated
+<img src="https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white"/>
 
-<i>19–22 yrs</i>
-- Started my own furniture restoration business after seeing a instagram video of someone painting old furniture
-- Got my first cabinet from the scrap yard, restored it, sold it in 15 min for $500 profit
-- Scaled the business to over $3500/month from my parent's basement, restored, sold, did it all
-- Juggled studies, part time job, and my own business at the same time - doing 18hr work days
-- Did my Master's degree in Business Ecnomics/Administration
-- Got a job as a Sales Associate in a japanese retail store, got promoted to manager - said no
-- Traveled to Thailand for 6 months alone, to practice Muay Thai and challenge myself
+<img src="https://img.shields.io/badge/Data%20Analytics-0072B5?style=for-the-badge&logo=databricks&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/AI%20%26%20Agents-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white"/>
 
-<i>17–19 yrs</i>
-- Got a part time job along side my studies as a food driver for a restaurant, had so much fun
-- Tried starting a clothing company online - failed
-- Did some freelancing and sold a couple of websites through Fiverr, for Swedish startup companies
-- Started doing Muay Thai (Thaiboxing) and I loved it
+<img src="https://img.shields.io/badge/iOS%20Dev-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 
-<i>14–16 yrs</i>
-- My parents told me to find a way to make my own money if I wanted to buy a PC
-- Learned how to import stuff from manufacturers in China directly. Started importing high-end look-a-like watches with “no-brand” from China and sold them via social media in Sweden
-- Grew my watch brand on Instagram to 5k followers and $9000 in profit as a 16 year old
+<img src="https://img.shields.io/badge/Business%20Econ-008080?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
+</p>
 
+My technical foundation lies in Data Analytics and Python, and my long-term interests focus on AI, Agentic systems, and building automated workflows. In recent months, I have been deeply focused on agent systems, agent architecture and RAG, specifically exploring how to deploy complex agentic systems into practical, real-world applications.
 
+I hope to grow into a versatile tech builder and an independent entrepreneur known for creating polished, data-driven applications. Coming from a heavy business and entrepreneurial background—having scaled my own businesses and completed my Master's in Business Economics—I also enjoy bridging the gap between raw data and real-world value. Outside of tech, I am passionate about pushing my physical limits through Muay Thai.
+
+I'm currently a Business Analyst II at the world's #1 leading Tech-OTA, usually based in Sweden. Now, I focus on analyzing massive industry datasets while independently building and launching projects.
+
+Check out my work here：
+<a href="https://huggingface.co/spaces/SimonStenelid/ai-my-chatbot?logs=containe" target="_blank"><img src="https://img.shields.io/badge/Me%20as%20an%20AI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+<a href="https://apps.apple.com/se/app/retiro/id6744709211" target="_blank"><img src="https://img.shields.io/badge/Retiro%20App-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
