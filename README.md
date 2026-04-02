@@ -8,8 +8,6 @@
 
 <img src="https://img.shields.io/badge/AI%20%26%20Agents-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/iOS%20Dev-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Business%20Econ-008080?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </p>
@@ -23,3 +21,4 @@ I'm currently a Business Analyst II at the world's #1 leading Tech-OTA, usually 
 Check out my work here：
 <a href="https://huggingface.co/spaces/SimonStenelid/ai-my-chatbot?logs=containe" target="_blank"><img src="https://img.shields.io/badge/Me%20as%20an%20AI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 <a href="https://apps.apple.com/se/app/retiro/id6744709211" target="_blank"><img src="https://img.shields.io/badge/Retiro%20App-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+<a href="https://www.cakeforall.site/" target="_blank"><img src="https://img.shields.io/badge/Cake%20Crawler-FF69B4?style=for-the-badge&logo=cakephp&logoColor=white" /></a>
