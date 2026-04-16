@@ -14,7 +14,7 @@
 
 My technical foundation lies in Data Analytics and Python, and my long-term interests focus on AI, Agentic systems, and building automated workflows. In recent months, I have been deeply focused on agent systems, agent architecture and RAG, specifically exploring how to deploy complex agentic systems into practical, real-world applications.
 
-I hope to grow into a versatile tech builder and an independent entrepreneur known for creating polished, data-driven applications. Coming from a heavy business and entrepreneurial background—having scaled my own businesses and completed my Master's in Business Economics—I also enjoy bridging the gap between raw data and real-world value. Outside of tech, I am passionate about pushing my physical limits through Muay Thai.
+I hope to grow into a versatile tech builder and an independent entrepreneur known for creating polished, data-driven applications. Coming from a heavy business and entrepreneurial background—having scaled my own businesses and completed my Master's in Business Economics—I also enjoy bridging the gap between raw data and real-world value. Outside of that, I am passionate about pushing my physical limits through Muay Thai.
 
 I'm currently a Business Analyst II at the world's #1 leading Tech-OTA, usually based in Sweden. Now, I focus on analyzing massive industry datasets while independently building and launching projects.
 
