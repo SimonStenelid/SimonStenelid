@@ -12,9 +12,10 @@
 
 </p>
 
-<img width="400" height="500" alt="TimmoryPicokeepingitcasualtoday Nobigshownocrazymovesjusttwolittlebuddie-ezgif com-optimize" src="https://github.com/user-attachments/assets/b1cd8361-25f8-4ea2-a7f0-ec4b0a765367" />
-
-
+<div align="center">
+  <h3>Meanwhile, on the bench...</h3>
+  <img src="./hamster-bench.svg" width="100%" alt="A hamster relaxing on a park bench by a stream">
+</div>
 
 
 
